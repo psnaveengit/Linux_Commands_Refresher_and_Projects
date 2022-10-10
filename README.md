@@ -44,6 +44,7 @@ Manual Structure:
     g. Misc
     h. System Admin
 
-2. Reading the Man Pages
-    
+2. Reading the Man Pages of Linux
+
+
 
