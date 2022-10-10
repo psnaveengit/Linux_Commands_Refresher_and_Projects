@@ -18,15 +18,13 @@ CTRL + D                              Terminal Close Shortcut
 
 # Command Structure 
 commandName options inputs
-cal          12      2017
+1. cal          12      2017
+2. date         -u               - Date in Universal Time - Short Name
+3. date         --universal      - Date in Unversal Time - Long Name
 
-date         -u               - Date in Universal Time - Short Name
+4.  commandName options1 options2 input1 input2
 
-date         --universal      - Date in Unversal Time - Long Name
-
-commandName options1 options2 input1 input2
-
-To know where a command file recides, you can use the "which" command
+5. To know where a command file recides, you can use the "which" command
 which echo
 
 
