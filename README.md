@@ -18,7 +18,7 @@ CTRL + D                              Terminal Close Shortcut
 
 # Command Structure 
 commandName options inputs
-1. cal          12      2017
+cal          12      2017
 2. date         -u               - Date in Universal Time - Short Name
 3. date         --universal      - Date in Unversal Time - Long Name
 
